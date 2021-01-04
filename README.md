@@ -8,10 +8,10 @@ Our system is capable to identify multiple faces in real time.
 
 The attendance is maintained in a excel sheet where the name and the entrance time of the student is recorded.
 
-![demo](assets/Demo_1.png)
+![demo](assets/Demo_1.PNG)
 
-![demo](assets/Demo_2.png)
+![demo](assets/Demo_2.PNG)
 
-![demo](assets/Demo_3.png)
+![demo](assets/Demo_3.PNG)
 
-![demo](assets/Demo_4.png)
+![demo](assets/Demo_4.PNG)
