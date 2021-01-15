@@ -11,6 +11,7 @@ maintaining the attendance record is a challenging task. The conventional method
 <p>Spotting VIPS during cricket matches.</p>
 
 <h3>Example</h3>
+
 ![demo](assests/Demo_1.PNG)
 
 ![demo](assests/Demo_2.PNG)
